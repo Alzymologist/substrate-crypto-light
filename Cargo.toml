@@ -8,7 +8,7 @@ blake2b_simd = {version = "1.0.2", default-features = false}
 hmac = "0.12.1"
 lazy_static = {version = "1.4.0", default-features = false, features = ["spin_no_std"]}
 parity-scale-codec = {version = "3.6.9", default-features = false}
-pbkdf2 = {version = "0.11.0", default-features = false}
+pbkdf2 = {version = "0.12.2", default-features = false}
 rand_core = {version = "0.6.4", default-features = false}
 regex = {version = "1.10.3", default-features = false}
 schnorrkel = {version = "0.10.2", default-features = false, features = ["u64_backend"]}
