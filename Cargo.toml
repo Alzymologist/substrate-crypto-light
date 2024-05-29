@@ -23,7 +23,7 @@ thiserror = { version = "1", optional = true }
 [dev-dependencies]
 hex = "0.4.3"
 mnemonic-external = {git = "https://github.com/Alzymologist/mnemonic-external"}
-sp-core = "30.0.0"
+sp-core = "33.0.1"
 
 [features]
 default = ["ed25519", "ecdsa", "sr25519", "std", "thiserror"]
